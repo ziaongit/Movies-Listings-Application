@@ -1,0 +1,30 @@
+{
+  "name": "movies-and-music-info-application",
+  "version": "1.0.0",
+  "description": "This is movies and music listing application using JavaScript ES6, jQuery along with Axios for making HTTP requests to the OMDb and Apple API.",
+  "main": "GruntFile.js",
+  "dependencies": {
+    "grunt-contrib": "^0.11.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^3.0.1",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziaullahkhan/Movies-and-Music-Info-Application.git"
+  },
+  "author": "Zia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziaullahkhan/Movies-and-Music-Info-Application/issues"
+  },
+  "homepage": "https://github.com/ziaullahkhan/Movies-and-Music-Info-Application#readme"
+}

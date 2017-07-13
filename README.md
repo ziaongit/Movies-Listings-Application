@@ -6,5 +6,6 @@ This is movies and music listing application using JavaScript ES6, jQuery along 
 2. Bootstrap - SASS (Installed via Bower)
 3. JavaScript
 4. JQuery
-5. HTTP client Axios
-6. SASS compilation with Koala
+5. Grunt 
+6. HTTP client Axios
+7. SASS compilation with Grunt
