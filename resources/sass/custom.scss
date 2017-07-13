@@ -17,7 +17,7 @@
     padding: 30px 0;
 
     h1 {
-        font-size: 60px;
+        font-size: 50px;
     }
     .container {
         background: $main-color;
@@ -26,12 +26,29 @@
     }
 
 }
+
+.section-newsletter {
+    padding: 60px 0;
+    text-align: center;
+    background: $main-color;
+    color: set-text-color($main-color) !important;
+    .btn-primary {
+        background: darken($main-color, 10%);
+    }
+}
+.title-bar {
+    background-image: url("../images/showcase.jpg");
+    padding-bottom: 10px;
+    border-bottom: 4px solid $main-color;
+}
+.main {
+    margin-top: 30px;
+}
 footer {
     padding: 35px 0;
     background: darken($main-color, 10%);
-    position: absolute;
     width: 100%;
     bottom: 0;
     height: 60px;
-    color: #fff;
+    color: set-text-color($main-color) !important;
 }
