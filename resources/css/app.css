@@ -21,6 +21,15 @@
     opacity: 0.4;
     padding: 20px 30px 30px 30px; }
 
+footer {
+  padding: 35px 0;
+  background: #11636b;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  height: 60px;
+  color: #fff; }
+
 /*!
  * Bootstrap v3.3.7 (http://getbootstrap.com)
  * Copyright 2011-2016 Twitter, Inc.

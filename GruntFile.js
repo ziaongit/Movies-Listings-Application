@@ -13,7 +13,7 @@ module.exports = function (grunt) {
                 separator: '\n \n ',
              },
             dist: {
-                src: ['bower_components\bootstrap-sass\assets\javascripts\bootstrap.js'],
+                src: ['bower_components/jquery/dist/jquery.js','bower_components/bootstrap-sass/assets/javascripts/bootstrap.js','resources/javascripts/main.js'],
                 dest: 'resources/javascripts/bin/main.js',
             }
         },
@@ -44,6 +44,6 @@ module.exports = function (grunt) {
 
     //Tasks
     grunt.registerTask('CompileJavaScript', ['concat','uglify']);
-    grunt.registerTask('default', ['concat']);
+    grunt.registerTask('default', ['concat','uglify']);
 
 }
