@@ -13,7 +13,7 @@ module.exports = function (grunt) {
                 separator: '\n \n ',
              },
             dist: {
-                src: ['bower_components/jquery/dist/jquery.js','bower_components/bootstrap-sass/assets/javascripts/bootstrap.js','resources/javascripts/main.js'],
+                src: ['bower_components/jquery/dist/jquery.js','bower_components/bootstrap-sass/assets/javascripts/bootstrap.js','bower_components/axios/dist/axios.min.js','resources/javascripts/main.js'],
                 dest: 'resources/javascripts/bin/main.js',
             }
         },
