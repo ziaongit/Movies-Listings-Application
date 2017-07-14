@@ -1,11 +1,11 @@
 # Movies-Listings-Application
-This is movies listings application developed using JavaScript, jQuery along with Axios for making HTTP requests to the OMDb and Apple API.
+This is movies listings/search application, list information data from [a link](https://www.themoviedb.org/documentation/api) API.
 
-## Technologies
+## Technologies used
 1. HTML5
-2. Bootstrap - SASS
-3. JavaScript
-4. JQuery
-5. Grunt 
-6. HTTP client Axios
-7. SASS compilation with Grunt
+2. CSS/SASS
+3. Bootstrap - SASS
+4. JavaScript
+5. JQuery
+6. Grunt
+7. HTTP client Axios
