@@ -97,6 +97,13 @@
     }
 
 }
+.single-movie {
+    padding: 30px 20px;
+    img {
+        width: 90%;
+        height: auto;
+    }
+}
 footer {
     padding: 35px 0;
     background: darken($main-color, 10%);

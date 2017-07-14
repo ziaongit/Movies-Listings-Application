@@ -8208,6 +8208,12 @@ button.close {
       width: 100%;
       height: 320px; } }
 
+.single-movie {
+  padding: 30px 20px; }
+  .single-movie img {
+    width: 90%;
+    height: auto; }
+
 footer {
   padding: 35px 0;
   background: #11636b;
