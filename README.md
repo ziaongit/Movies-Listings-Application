@@ -3,7 +3,7 @@ This is movies listings application developed using JavaScript, jQuery along wit
 
 ## Technologies
 1. HTML5
-2. Bootstrap - SASS (Installed via Bower)
+2. Bootstrap - SASS
 3. JavaScript
 4. JQuery
 5. Grunt 
