@@ -1,5 +1,5 @@
 # Movies-Listings-Application
-This is movies listings/search application, list information data from [a link](https://www.themoviedb.org/documentation/api) API.
+This is movies listings/search application, list information data from [TheMovieDB](https://www.themoviedb.org/documentation/api) API.
 
 ## Technologies used
 1. HTML5
